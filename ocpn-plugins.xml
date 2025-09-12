@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <plugins>
   <version>0.0.0</version>
-  <date>2025-09-12 13:18</date>
+  <date>2025-09-12 13:24</date>
   <plugin version="1">
     <name> Test_build_plugin_ocpn </name>
-    <version> 1.0.346.0 </version>
+    <version> 1.0.347.0 </version>
     <release> 0 </release>
     <summary> Plugin to test examples of the ODAPI and JSON interface for ODRAW </summary>
     <api-version> 1.18 </api-version>
@@ -19,7 +19,9 @@
     <build-gtk/>
     <target-version>10.0.26100</target-version>
     <target-arch>x86</target-arch>
-    <tarball-url>https://github.com/Mozart-UA/ocpn_plugin_binaries/raw/main/plugins/releases/test_build_plugin_ocpn_pi-1.0.346.0-msvc-x86-wx32-10.0.26100-MSVC.tar.gz</tarball-url>
+    <tarball-url>
+    https://github.com/Mozart-UA/ocpn_plugin_binaries/raw/main/plugins/releases/test_build_plugin_ocpn_pi-1.0.347.0-msvc-x86-wx32-10.0.26100-MSVC.tar.gz
+  </tarball-url>
     <info-url> custom info url https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:plugins:safety:odraw1.6_pi </info-url>
   </plugin>
 </plugins>
