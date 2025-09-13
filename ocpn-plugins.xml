@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <plugins>
   <version>0.0.0</version>
-  <date>2025-09-12 20:51</date>
+  <date>2025-09-13 11:59</date>
   <plugin version="1">
     <name> Test_build_plugin_ocpn </name>
     <version> 0.0.0.1 </version>
@@ -64,7 +64,7 @@
     <target-version>15.6</target-version>
     <target-arch>arm64;x86_64</target-arch>
     <tarball-url>
-    https://raw.githubusercontent.com/Mozart-UA/ocpn_plugin_binaries/main/plugins/releases/test_build_plugin_ocpn_pi-0.0.0.1-darwin-wx32-arm64-x86_64-15.6-macos.tar.gz
+    https://github.com/Mozart-UA/ocpn_plugin_binaries/raw/main/plugins/releases/test_build_plugin_ocpn_pi-0.0.0.1-darwin-wx32-arm64-x86_64-15.6-macos.tar.gz
   </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/ocpn-dev-manual/0.1/pm-plugin-api-overview.html </info-url>
   </plugin>
