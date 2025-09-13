@@ -64,7 +64,7 @@
     <target-version>15.6</target-version>
     <target-arch>arm64;x86_64</target-arch>
     <tarball-url>
-    https://github.com/Mozart-UA/ocpn_plugin_binaries/raw/main/plugins/releases/test_build_plugin_ocpn_pi-0.0.0.1-darwin-wx32-arm64-x86_64-15.6-macos.tar.gz
+    https://raw.githubusercontent.com/Mozart-UA/ocpn_plugin_binaries/main/plugins/releases/test_build_plugin_ocpn_pi-0.0.0.1-darwin-wx32-arm64-x86_64-15.6-macos.tar.gz
   </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/ocpn-dev-manual/0.1/pm-plugin-api-overview.html </info-url>
   </plugin>
