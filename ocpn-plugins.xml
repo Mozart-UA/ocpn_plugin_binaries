@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <plugins>
   <version>0.0.0</version>
-  <date>2025-09-12 20:50</date>
+  <date>2025-09-12 20:51</date>
   <plugin version="1">
     <name> Test_build_plugin_ocpn </name>
     <version> 0.0.0.1 </version>
