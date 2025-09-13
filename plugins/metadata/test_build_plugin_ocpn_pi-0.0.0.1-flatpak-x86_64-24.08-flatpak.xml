@@ -6,7 +6,7 @@
   <summary> A minimal test plugin template to verify build and loading in OpenCPN. </summary>
 
   <api-version> 1.18 </api-version>
-  <open-source> yes </open-source>
+  <open-source> no </open-source>
   <author> @Mozart </author>
   <source> https://github.com/Mozart-UA/test_build_plugin_ocpn </source>
 
