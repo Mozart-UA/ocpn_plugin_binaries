@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <plugins>
   <version>0.0.0</version>
-  <date>2025-10-23 10:45</date>
+  <date>2025-10-23 11:28</date>
   <plugin version="1">
     <name> Test_build_plugin_ocpn </name>
     <version> 0.0.0.1 </version>
@@ -70,8 +70,8 @@
   </plugin>
   <plugin version="1">
     <name>Sounding Kit</name>
-    <version>0.0.0.1</version>
-    <release>1</release>
+    <version>0.0.0.2</version>
+    <release>2</release>
     <summary>todo: add summary here.</summary>
     <api-version>1.18</api-version>
     <open-source>no</open-source>
@@ -87,7 +87,7 @@
     <target-version>10.0.26100</target-version>
     <target-arch>x86</target-arch>
     <!-- Для Import Plugin поле присутствует; URL реального каталога можно не использовать -->
-    <tarball-url>https://github.com/Mozart-UA/ocpn_plugin_binaries/raw/main/plugins/releases/sounding_kit_pi-0.0.0.1-msvc-x86-wx32-10.0.26100-MSVC.tar.gz</tarball-url>
+    <tarball-url>https://github.com/Mozart-UA/ocpn_plugin_binaries/raw/main/plugins/releases/sounding_kit_pi-0.0.0.2-msvc-x86-wx32-10.0.26100-MSVC.tar.gz</tarball-url>
     <info-url>https://opencpn-manuals.github.io/main/ocpn-dev-manual/0.1/pm-plugin-api-overview.html</info-url>
   </plugin>
 </plugins>
