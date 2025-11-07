@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <plugins>
   <version>0.0.0</version>
-  <date>2025-11-06 21:38</date>
+  <date>2025-11-07 06:19</date>
   <plugin version="1">
     <name> Test_build_plugin_ocpn </name>
     <version> 0.0.0.1 </version>
@@ -69,28 +69,6 @@
     <info-url> https://opencpn-manuals.github.io/main/ocpn-dev-manual/0.1/pm-plugin-api-overview.html </info-url>
   </plugin>
   <plugin version="1">
-    <name>Sounding Kit</name>
-    <version>0.0.0.2</version>
-    <release>2</release>
-    <summary>todo: add summary here.</summary>
-    <api-version>1.18</api-version>
-    <open-source>no</open-source>
-    <author>@Mozart</author>
-    <source>https://github.com/Mozart-UA/Carry-On-Sailing</source>
-    <description>
-    todo: add description here.
-  </description>
-    <!-- Совместимость с хостом -->
-    <build-target>msvc</build-target>
-    <build-gtk/>
-    <target>msvc-wx32</target>
-    <target-version>10.0.26100</target-version>
-    <target-arch>x86</target-arch>
-    <!-- Для Import Plugin поле присутствует; URL реального каталога можно не использовать -->
-    <tarball-url>https://github.com/Mozart-UA/ocpn_plugin_binaries/raw/main/plugins/releases/sounding_kit_pi-0.0.0.2-msvc-x86-wx32-10.0.26100-MSVC.tar.gz</tarball-url>
-    <info-url>https://opencpn-manuals.github.io/main/ocpn-dev-manual/0.1/pm-plugin-api-overview.html</info-url>
-  </plugin>
-  <plugin version="1">
     <name> Watchdog </name>
     <version> 2.5.2.1 </version>
     <release> 1 </release>
@@ -132,6 +110,28 @@
     <target-arch>x86_64</target-arch>
     <!-- Для Import Plugin поле присутствует; URL реального каталога можно не использовать -->
     <tarball-url>https://github.com/Mozart-UA/ocpn_plugin_binaries/raw/main/plugins/releases/sounding_kit_pi-0.0.0.3-flatpak-x86_64-24.08-flatpak.tar.gz</tarball-url>
+    <info-url>https://opencpn-manuals.github.io/main/ocpn-dev-manual/0.1/pm-plugin-api-overview.html</info-url>
+  </plugin>
+  <plugin version="1">
+    <name>Sounding Kit</name>
+    <version>0.0.0.3</version>
+    <release>3</release>
+    <summary>todo: add summary here.</summary>
+    <api-version>1.18</api-version>
+    <open-source>no</open-source>
+    <author>@Mozart</author>
+    <source>https://github.com/Mozart-UA/Carry-On-Sailing</source>
+    <description>
+    The Sounding Kit plugin provides advanced tools for managing and visualizing sounding data within OpenCPN, enhancing navigational capabilities for users.
+  </description>
+    <!-- Совместимость с хостом -->
+    <build-target>msvc</build-target>
+    <build-gtk/>
+    <target>msvc-wx32</target>
+    <target-version>10.0.26100</target-version>
+    <target-arch>x86</target-arch>
+    <!-- Для Import Plugin поле присутствует; URL реального каталога можно не использовать -->
+    <tarball-url>https://github.com/Mozart-UA/ocpn_plugin_binaries/raw/main/plugins/releases/sounding_kit_pi-0.0.0.3-msvc-x86-wx32-10.0.26100-MSVC.tar.gz</tarball-url>
     <info-url>https://opencpn-manuals.github.io/main/ocpn-dev-manual/0.1/pm-plugin-api-overview.html</info-url>
   </plugin>
 </plugins>
